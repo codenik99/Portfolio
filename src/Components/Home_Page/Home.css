@@ -1,6 +1,6 @@
 *{
     margin: 0 auto;
-
+    
 }
 body{
     background-color: black;
@@ -12,3 +12,4 @@ body{
     transform: translate(0, -50%);
     color: white;
 }
+
