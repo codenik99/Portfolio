@@ -4,10 +4,12 @@ import './index.css';
 
 import reportWebVitals from './reportWebVitals';
 import Home from './Components/Home_Page/Home';
+import Header from './Components/Header/Header';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <Header />
     <Home />
   </React.StrictMode>
 );
